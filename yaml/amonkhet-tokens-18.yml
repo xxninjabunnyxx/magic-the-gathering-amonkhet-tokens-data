@@ -1,0 +1,143 @@
+---
+object: card
+id: 65844e72-aa84-483f-b07e-9e34e798aaec
+oracle_id: 9e266374-80f1-458a-9417-16220d2a013a
+multiverse_ids: []
+tcgplayer_id: 130175
+name: Drake
+lang: en
+released_at: '2017-04-28'
+uri: https://api.scryfall.com/cards/65844e72-aa84-483f-b07e-9e34e798aaec
+scryfall_uri: https://scryfall.com/card/takh/18/drake?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/5/65844e72-aa84-483f-b07e-9e34e798aaec.jpg?1625511529
+  normal: https://cards.scryfall.io/normal/front/6/5/65844e72-aa84-483f-b07e-9e34e798aaec.jpg?1625511529
+  large: https://cards.scryfall.io/large/front/6/5/65844e72-aa84-483f-b07e-9e34e798aaec.jpg?1625511529
+  png: https://cards.scryfall.io/png/front/6/5/65844e72-aa84-483f-b07e-9e34e798aaec.png?1625511529
+  art_crop: https://cards.scryfall.io/art_crop/front/6/5/65844e72-aa84-483f-b07e-9e34e798aaec.jpg?1625511529
+  border_crop: https://cards.scryfall.io/border_crop/front/6/5/65844e72-aa84-483f-b07e-9e34e798aaec.jpg?1625511529
+mana_cost: ''
+cmc: 0.0
+type_line: Token Creature — Drake
+oracle_text: Flying
+power: '2'
+toughness: '2'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flying
+all_parts:
+- object: related_card
+  id: ba1240d4-dbd0-483b-934a-5f7c505fad42
+  component: combo_piece
+  name: Roost of Drakes
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/ba1240d4-dbd0-483b-934a-5f7c505fad42
+- object: related_card
+  id: 20842e77-5707-4eff-ac82-336eecaa1d96
+  component: combo_piece
+  name: Talrand's Invocation
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/20842e77-5707-4eff-ac82-336eecaa1d96
+- object: related_card
+  id: 44f9a2e1-3820-4280-8ded-f6090532fedc
+  component: combo_piece
+  name: Drake Haven
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/44f9a2e1-3820-4280-8ded-f6090532fedc
+- object: related_card
+  id: 61561585-f4fb-4e47-a65a-0c43a855ebcf
+  component: combo_piece
+  name: Alandra, Sky Dreamer
+  type_line: Legendary Creature — Merfolk Wizard
+  uri: https://api.scryfall.com/cards/61561585-f4fb-4e47-a65a-0c43a855ebcf
+- object: related_card
+  id: 65844e72-aa84-483f-b07e-9e34e798aaec
+  component: token
+  name: Drake
+  type_line: Token Creature — Drake
+  uri: https://api.scryfall.com/cards/65844e72-aa84-483f-b07e-9e34e798aaec
+- object: related_card
+  id: bbbbfc7f-51b6-4925-a0f7-b2873366653e
+  component: combo_piece
+  name: Talrand, Sky Summoner
+  type_line: Legendary Creature — Merfolk Wizard
+  uri: https://api.scryfall.com/cards/bbbbfc7f-51b6-4925-a0f7-b2873366653e
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 739edf06-0069-4a07-8995-18ff67083e8e
+set: takh
+set_name: Amonkhet Tokens
+set_type: token
+set_uri: https://api.scryfall.com/sets/739edf06-0069-4a07-8995-18ff67083e8e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atakh&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/takh?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/65844e72-aa84-483f-b07e-9e34e798aaec/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9e266374-80f1-458a-9417-16220d2a013a&unique=prints
+collector_number: '18'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: John Severin Brassell
+artist_ids:
+- a4f50310-4b01-4cd3-8ab8-85b31e6876db
+illustration_id: e861f839-b78d-4c8f-b8f4-3d9936c9ccf7
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: '0.43'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Drake&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Drake&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Drake
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/130175?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Drake&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Drake&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
